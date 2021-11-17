@@ -1,6 +1,6 @@
 import "./App.css";
 /******
-sad :< makmak
+sad :< makmakmak
 ******/
 function App() {
   return (
